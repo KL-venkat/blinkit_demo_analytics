@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Blinkit%20Analytics-95C11F?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
-<h1 align="center">🛒 Blinkit Sales Performance & Inventory Analytics Dashboard</h1>
+<h1>🛒 Blinkit Sales Performance & Inventory Analytics Dashboard</h1>
 
 <p align="center">
   📊 Sales Analysis • 📦 Inventory Insights • ⭐ Customer Satisfaction
